@@ -1,0 +1,2 @@
+# Comments on: Information Extraction
+[Jurafsky, Daniel & James H. Martin.  2017 (3rd Edition).  Speech and Language Processing.  Singapore: Pearson Education, Inc.: Chapter 22 (“Information Extraction”): 739-778.](('http://web.stanford.edu/~jurafsky/slp3/21.pdf',))
